@@ -1,4 +1,4 @@
-# Analyzing-Credit-Dataset
+# analyzing-credit-dataset
 
 ## Problem Statement
 
